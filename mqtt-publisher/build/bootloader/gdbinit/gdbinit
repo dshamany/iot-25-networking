@@ -1,0 +1,2 @@
+source /home/dan/Projects/collaborations/iot-25-networking/mqtt-publisher/build/bootloader/gdbinit/symbols
+source /home/dan/Projects/collaborations/iot-25-networking/mqtt-publisher/build/bootloader/gdbinit/connect
