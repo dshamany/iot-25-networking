@@ -12,7 +12,7 @@
 ## Broker
 
 ## Port
-Working on port
+The port chosen is 8883, this is a standard port for SSL data transfer (encrypted)
 
 ## Topic
 
