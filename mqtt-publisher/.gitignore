@@ -1,0 +1,8 @@
+build/
+/.vscode
+managed_components/
+dependencies.lock
+Kconfig.projbuild
+sdkconfig
+sdkconfig.old
+idf_component.yml
