@@ -12,7 +12,7 @@
 ## Broker
 
 ## Port
-I think I want port 8080 to be used for MQTT
+The port chosen is 8883, this is a standard port for SSL data transfer (encrypted)
 
 ## Topic
 
