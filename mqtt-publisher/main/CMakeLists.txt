@@ -1,3 +1,3 @@
-idf_component_register(SRCS "mqtt-publisher.cpp"
-                    PRIV_REQUIRES wifi
-                    INCLUDE_DIRS "." "../components/wifi" )
+idf_component_register(SRCS "main.cpp"
+                    PRIV_REQUIRES wifi mqtt-publisher
+                    INCLUDE_DIRS "." )
