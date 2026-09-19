@@ -1,0 +1,2 @@
+source /home/dominik/repos/natverk-systemintegration/iot-25-networking/build/gdbinit/symbols
+source /home/dominik/repos/natverk-systemintegration/iot-25-networking/build/gdbinit/connect

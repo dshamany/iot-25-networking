@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/mqtt-publisher/build/compile_commands.json",
+    "cmake.sourceDirectory": "/home/dominik/repos/natverk-systemintegration/iot-25-networking/mqtt-publisher"
+}

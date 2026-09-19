@@ -1,0 +1,5 @@
+# ninja log v6
+2	18	1787834217631459856	project_elf_src_esp32.c	cadc4c583d1e9d78
+2	18	1787834217631459856	/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/project_elf_src_esp32.c	cadc4c583d1e9d78
+18	37	1787834217634797148	CMakeFiles/wifi_station.elf.dir/project_elf_src_esp32.c.obj	4a32bbc85a97a407
+37	52	1787834217654356642	wifi_station.elf	68adceeb2a157cec

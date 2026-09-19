@@ -1,0 +1,14 @@
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/menuconfig.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/confserver.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/save-defconfig.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/_project_elf_src.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/wifi_station.elf.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/size.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/size-files.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/size-components.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/uf2.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/uf2-app.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/edit_cache.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/CMakeFiles/rebuild_cache.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/esp-idf/CMakeFiles/edit_cache.dir
+/home/dominik/repos/natverk-systemintegration/iot-25-networking/build/esp-idf/CMakeFiles/rebuild_cache.dir
